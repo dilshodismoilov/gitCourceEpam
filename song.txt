@@ -4,6 +4,4 @@
 4 line of song
 
 5 l
-6 asd
-7 asdasd
-8 dsadsa
+6
